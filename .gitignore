@@ -1,0 +1,24 @@
+# Локальный конфиг с паролями
+config.py
+
+# Виртуальное окружение
+venv/
+env/
+.venv/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDEs
+.vscode/
+.idea/
+
+# Логи
+*.log
+*.tmp
